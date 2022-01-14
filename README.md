@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on Data science projects.    <img align="right" alt="GIF" width="500px" height="280px" src="https://github.com/Sureshkrishh/Sureshkrishh/blob/main/Images/profile.gif"/>
+- 🔭 I’m currently working on Data science projects.    
 
 - 🌱 I’m currently learning **web page development**
 
@@ -14,7 +14,6 @@
 - 👨‍💻 Ask me about anything, I ll try my best to share my knowledge
 
 - 📫 How to reach me **navalbashivaraj@gmail.com**
-- Quote: **“Data will talk if you’re willing to listen to it.”**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
   
@@ -38,4 +37,9 @@
 ## Connect with me:
 <p align="left"> 
 <a href = "https://www.linkedin.com/in/shivaraj-navalba/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+  
+  ## QUOTE: **“Data will talk if you’re willing to listen to it.”**
+  
+  <img align="center" alt="GIF" width="500px" height="280px" src="https://github.com/Sureshkrishh/Sureshkrishh/blob/main/Images/profile.gif"/>
+
 
