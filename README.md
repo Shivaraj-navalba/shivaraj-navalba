@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="150px"/></a>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shivaraj Navalba</h1>
-<h3 align="center">I'm a passionate Data scientist from India.</h3>
+<h3 align="center">I'm a passionate Data science engg from India.</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **navalbashivaraj@gmail.com**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- ⚡ Translated from string to binary: **01001101011100100010111001001110011000010111011001100001011011000110001001100001**
   
 
 
